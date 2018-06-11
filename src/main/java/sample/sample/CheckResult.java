@@ -9,6 +9,7 @@ public class CheckResult implements java.io.Serializable
 
    static final long serialVersionUID = 1L;
 
+   private final String EXAMPLE = "example";
    private boolean outcome;
 
    public CheckResult()
